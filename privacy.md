@@ -8,7 +8,7 @@ layout: home
 
 This privacy policy applies to the Busta Paga - Professionale app (hereby referred to as "Application") for mobile devices that was created by Luigi Vezzoso (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-***What information does the Application obtain and how is it used?***
+**What information does the Application obtain and how is it used?**
 
 The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
 
